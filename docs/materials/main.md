@@ -161,3 +161,13 @@ Patterson
 *BPF 之巅* Brendan Gregg
 
 [OPEN MLSYS](https://openmlsys.github.io/)
+
+## Algorithm
+
+*Concrete Mathematics: A Foundation for Computer Science*, Ronald Graham, Donald Knuth, Oren Patashnik
+
+> 学过算法竞赛的都知道。
+
+*Hacker's Delight*, Henry S. Warren, Jr.
+
+> 编译器设计、嵌入式设备开发、高性能模块、逆向工程等领域的工具书。
