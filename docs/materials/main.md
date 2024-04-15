@@ -150,6 +150,28 @@ Patterson
 
 *Parallel and High Performance Computing*, Robert Robey, Yuliana Zamora
 
+*An Introduction to Parallel Programming*, Peter S. Pacheco
+
+*Structured Parallel Programming: Patterns for Efficient Computation*,
+Michael McCool et al
+
+#### Hardware Related
+
+*Intel® VTune™ Profiler Performance Analysis Cookbook*, Intel
+
+> Available on [Intel website](https://www.intel.com/content/www/us/en/docs/vtune-profiler/cookbook/)
+
+*Performance Analysis and Tuning on Modern CPUs*, Denis Bakhvalov et al
+
+*CUDA C++ Best Practices Guide*, NVIDIA
+
+> Available on [NVIDIA website](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/)
+
+#### Architecture Related
+
+*Processor Microarchitecture: An Implementation Perspective*, Antonio Gonzalez
+et al
+
 #### Application Levels
 
 *高性能 SQL*, Baron Schwartz et al
