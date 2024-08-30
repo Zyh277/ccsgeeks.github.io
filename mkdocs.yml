@@ -62,3 +62,5 @@ nav:
     - 首页: archive/index.md  
     - 研讨会 03/22: archive/240322.md
   - 书籍推荐: materials/main.md
+  - 阅读列表:
+    - LLMSys: readings/llmsys.md
